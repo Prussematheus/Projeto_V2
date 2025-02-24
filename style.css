@@ -54,7 +54,7 @@ h1,h3,p {
     border-color: rgb(238, 255, 0);
     border-style: solid;
     padding: 10px;
-    background-color: rgb(68, 68, 68);
+    background-color: rgb(97, 97, 97);
     flex: 0 1 calc(33.33% - 20px);
     box-sizing: border-box;
 
